@@ -1,12 +1,12 @@
-# Hello, I'm [Ezequiel] 👋
+# Hello, I'm Ezequiel 👋
 
 ### About Me
-I am a beggineer developer passionate about technology and innovation. Currently, I'm focused on enhancing my skills in [Full-stack Development].
+I am a beggineer developer passionate about technology and innovation. Currently, I'm focused on enhancing my skills in Full-stack Development.
 
 ### Skills
-- Programming Languages: [Python and C#]
-- Frameworks and Libraries: [None]
-- Tools: [Unity 6 and VS Code]
+- Programming Languages: Python and C#
+- Frameworks and Libraries: None
+- Tools: Unity 6 and VS Code
 
 ### Projects
 Here are some of my most recent projects:
@@ -15,10 +15,11 @@ Here are some of my most recent projects:
 - [Working...]() - Working on Project
 
 ### GitHub Statistics
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Ezequiel-Portifolio&show_icons=true&theme=radical)
 
 ### Contact
-- 
+- [Working...]
+  
 ---
 
 
