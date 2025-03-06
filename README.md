@@ -5,12 +5,12 @@ I am a beggineer developer passionate about technology and innovation. Currently
 
 ### Skills
 - Programming Languages: Python and C#
-- Frameworks and Libraries: None
+- Frameworks and Libraries: Tkinter
 - Tools: Unity 6 and VS Code
 
 ### Projects
 Here are some of my most recent projects:
-- [Working...]() - Working on Project
+- [Basic Calculator](https://github.com/Ezequiel-Portifolio/Calculator-in-Python-using-Tkinter-Library) - A basic calculator using Tkinter library.
 - [Working...]() - Working on Project
 - [Working...]() - Working on Project
 
