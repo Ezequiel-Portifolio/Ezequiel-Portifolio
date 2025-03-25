@@ -11,7 +11,7 @@ I am a beggineer developer passionate about technology and innovation. Currently
 ### Projects
 Here are some of my most recent projects:
 - [Basic Calculator](https://github.com/Ezequiel-Portifolio/Calculator-in-Python-using-Tkinter-Library) - A basic calculator using Tkinter library.
-- [Working...]() - Working on Project
+- [Video Rental Store CLI Application](https://github.com/Ezequiel-Portifolio/Video-Rental-Store-CLI-Application) - A simple command-line application that simulates a movie rental store system write in Python.
 - [Working...]() - Working on Project
 
 ### GitHub Statistics
